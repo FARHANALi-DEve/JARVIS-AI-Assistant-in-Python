@@ -1,2 +1,0 @@
-﻿# JARVIS-AI-Assistant-in-Python
- Developed a custom desktop voice assistant using Python to execute system commands and control applications via voice and AI. Integrated SpeechRecognition for voice processing, pyttsx3 for text to speech, and the Gemini API for intelligent, conversational responses.
